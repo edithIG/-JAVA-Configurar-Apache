@@ -1,4 +1,4 @@
-# Configurar el administrador de Apache
+[JAVA]# Configurar el administrador de Apache
 
 Modificar el archivo conf/tomcat-users.xml y agregar la siguiente configuración.
 
