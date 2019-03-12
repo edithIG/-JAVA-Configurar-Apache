@@ -11,3 +11,4 @@ username="Admin"
 roles="manager-gui" 
 password="Admin"
 
+/EstructuraAppWeb.png
